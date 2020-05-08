@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This build is deployed from the master branch.
+          This build is deployed from the develop branch.
         </p>
         <a
           className="App-link"
